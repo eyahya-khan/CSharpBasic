@@ -1,0 +1,15 @@
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\bin\Debug\net6.0\SimpleApp.exe
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\bin\Debug\net6.0\SimpleApp.deps.json
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\bin\Debug\net6.0\SimpleApp.runtimeconfig.json
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\bin\Debug\net6.0\SimpleApp.dll
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\bin\Debug\net6.0\SimpleApp.pdb
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\obj\Debug\net6.0\SimpleApp.csproj.AssemblyReference.cache
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\obj\Debug\net6.0\SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\obj\Debug\net6.0\SimpleApp.AssemblyInfoInputs.cache
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\obj\Debug\net6.0\SimpleApp.AssemblyInfo.cs
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\obj\Debug\net6.0\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\obj\Debug\net6.0\SimpleApp.dll
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\obj\Debug\net6.0\refint\SimpleApp.dll
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\obj\Debug\net6.0\SimpleApp.pdb
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\obj\Debug\net6.0\SimpleApp.genruntimeconfig.cache
+C:\Users\eyahy\Desktop\c#\salt\SimpleApp\obj\Debug\net6.0\ref\SimpleApp.dll
