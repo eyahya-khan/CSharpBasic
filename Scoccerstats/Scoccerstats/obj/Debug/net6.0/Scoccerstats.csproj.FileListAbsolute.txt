@@ -1,0 +1,17 @@
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\bin\Debug\net6.0\data.txt
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\bin\Debug\net6.0\Scoccerstats.exe
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\bin\Debug\net6.0\Scoccerstats.deps.json
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\bin\Debug\net6.0\Scoccerstats.runtimeconfig.json
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\bin\Debug\net6.0\Scoccerstats.dll
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\bin\Debug\net6.0\Scoccerstats.pdb
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\obj\Debug\net6.0\Scoccerstats.csproj.AssemblyReference.cache
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\obj\Debug\net6.0\Scoccerstats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\obj\Debug\net6.0\Scoccerstats.AssemblyInfoInputs.cache
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\obj\Debug\net6.0\Scoccerstats.AssemblyInfo.cs
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\obj\Debug\net6.0\Scoccerstats.csproj.CoreCompileInputs.cache
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\obj\Debug\net6.0\Scoccerstats.dll
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\obj\Debug\net6.0\refint\Scoccerstats.dll
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\obj\Debug\net6.0\Scoccerstats.pdb
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\obj\Debug\net6.0\Scoccerstats.genruntimeconfig.cache
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\obj\Debug\net6.0\ref\Scoccerstats.dll
+C:\Users\eyahy\Desktop\c#\Scoccerstats\Scoccerstats\bin\Debug\net6.0\SoccerGameResults.csv

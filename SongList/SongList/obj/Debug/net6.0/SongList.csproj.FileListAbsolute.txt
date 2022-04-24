@@ -1,0 +1,15 @@
+C:\Users\eyahy\Desktop\c#\SongList\SongList\bin\Debug\net6.0\SongList.exe
+C:\Users\eyahy\Desktop\c#\SongList\SongList\bin\Debug\net6.0\SongList.deps.json
+C:\Users\eyahy\Desktop\c#\SongList\SongList\bin\Debug\net6.0\SongList.runtimeconfig.json
+C:\Users\eyahy\Desktop\c#\SongList\SongList\bin\Debug\net6.0\SongList.dll
+C:\Users\eyahy\Desktop\c#\SongList\SongList\bin\Debug\net6.0\SongList.pdb
+C:\Users\eyahy\Desktop\c#\SongList\SongList\obj\Debug\net6.0\SongList.csproj.AssemblyReference.cache
+C:\Users\eyahy\Desktop\c#\SongList\SongList\obj\Debug\net6.0\SongList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyahy\Desktop\c#\SongList\SongList\obj\Debug\net6.0\SongList.AssemblyInfoInputs.cache
+C:\Users\eyahy\Desktop\c#\SongList\SongList\obj\Debug\net6.0\SongList.AssemblyInfo.cs
+C:\Users\eyahy\Desktop\c#\SongList\SongList\obj\Debug\net6.0\SongList.csproj.CoreCompileInputs.cache
+C:\Users\eyahy\Desktop\c#\SongList\SongList\obj\Debug\net6.0\SongList.dll
+C:\Users\eyahy\Desktop\c#\SongList\SongList\obj\Debug\net6.0\refint\SongList.dll
+C:\Users\eyahy\Desktop\c#\SongList\SongList\obj\Debug\net6.0\SongList.pdb
+C:\Users\eyahy\Desktop\c#\SongList\SongList\obj\Debug\net6.0\SongList.genruntimeconfig.cache
+C:\Users\eyahy\Desktop\c#\SongList\SongList\obj\Debug\net6.0\ref\SongList.dll
